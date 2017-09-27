@@ -1,0 +1,46 @@
+{
+  "links": [
+    {
+      "source": "d3d10.dll.so",
+      "target": "dxgi.dll.so",
+      "type": "依赖"
+    },
+    {
+      "source": "d3d10.dll.so",
+      "target": "d3d10core.dll.so",
+      "type": "依赖"
+    },
+    {
+      "source": "d3d10.dll.so",
+      "target": "d3dcompiler_33.dll.so",
+      "type": "依赖"
+    },
+    {
+      "source": "d3d10.dll.so",
+      "target": "d3dcompiler_33.dll.so",
+      "type": "转发"
+    },
+    {
+      "source": "d3d10.dll.so",
+      "target": "d3dcompiler_43.dll.so",
+      "type": "\u8f6c\u53d1"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "dxgi.dll.so"
+    },
+    {
+      "id": "d3dcompiler_33.dll.so"
+    },
+    {
+      "id": "d3d10core.dll.so"
+    },
+    {
+      "id": "d3dcompiler_43.dll.so"
+    },
+    {
+      "id": "d3d10.dll.so"
+    }
+  ]
+}

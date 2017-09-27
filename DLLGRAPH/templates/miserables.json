@@ -1,0 +1,8872 @@
+{
+  "links": [
+    {
+      "source": "actxprxy.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "actxprxy.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "actxprxy.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "actxprxy.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "advpack.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "advpack.dll.so",
+      "target": "setupapi.dll.so"
+    },
+    {
+      "source": "advpack.dll.so",
+      "target": "version.dll.so"
+    },
+    {
+      "source": "advpack.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "amstream.dll.so",
+      "target": "libstrmiids.a"
+    },
+    {
+      "source": "amstream.dll.so",
+      "target": "libstrmbase.a"
+    },
+    {
+      "source": "amstream.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "amstream.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "amstream.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "amstream.dll.so",
+      "target": "ddraw.dll.so"
+    },
+    {
+      "source": "appwiz.cpl.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "appwiz.cpl.so",
+      "target": "urlmon.dll.so"
+    },
+    {
+      "source": "appwiz.cpl.so",
+      "target": "advpack.dll.so"
+    },
+    {
+      "source": "appwiz.cpl.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "appwiz.cpl.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "appwiz.cpl.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "appwiz.cpl.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "appwiz.cpl.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "appwiz.cpl.so",
+      "target": "comdlg32.dll.so"
+    },
+    {
+      "source": "atl.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "atl.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "atl.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "atl.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "atl.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "atl.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "atl.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "atl100.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "atl100.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "atl100.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "atl100.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "atl100.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "atl100.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "atl100.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "atl110.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "atl110.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "atl110.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "atl110.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "atl110.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "atl110.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "atl110.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "atl80.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "atl80.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "atl80.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "atl80.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "atl80.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "atl80.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "atl80.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "atl90.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "atl90.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "atl90.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "atl90.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "atl90.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "atl90.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "atl90.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "avifil32.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "avifil32.dll.so",
+      "target": "msacm32.dll.so"
+    },
+    {
+      "source": "avifil32.dll.so",
+      "target": "msvfw32.dll.so"
+    },
+    {
+      "source": "avifil32.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "avifil32.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "avifil32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "avifil32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "avifile.dll16.so",
+      "target": "avifil32.dll.so"
+    },
+    {
+      "source": "avrt.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "bcrypt.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "browseui.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "browseui.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "browseui.dll.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "browseui.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "browseui.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "cards.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "cards.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "cfgmgr32.dll.so",
+      "target": "setupapi.dll.so"
+    },
+    {
+      "source": "combase.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "comcat.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "comctl32.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "comctl32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "comctl32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "comctl32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "comdlg32.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "comdlg32.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "comdlg32.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "comdlg32.dll.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "comdlg32.dll.so",
+      "target": "winspool.drv.so"
+    },
+    {
+      "source": "comdlg32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "comdlg32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "comdlg32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "commdlg.dll16.so",
+      "target": "comdlg32.dll.so"
+    },
+    {
+      "source": "commdlg.dll16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "commdlg.dll16.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "compobj.dll16.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "compobj.dll16.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "compobj.dll16.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "comsvcs.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "credui.dll.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "credui.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "credui.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "crtdll.dll.so",
+      "target": "msvcrt.dll.so"
+    },
+    {
+      "source": "crypt32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "crypt32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "cryptdlg.dll.so",
+      "target": "cryptui.dll.so"
+    },
+    {
+      "source": "cryptdlg.dll.so",
+      "target": "crypt32.dll.so"
+    },
+    {
+      "source": "cryptdlg.dll.so",
+      "target": "wintrust.dll.so"
+    },
+    {
+      "source": "cryptdlg.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "cryptdlg.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "cryptdll.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "cryptnet.dll.so",
+      "target": "crypt32.dll.so"
+    },
+    {
+      "source": "cryptui.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "cryptui.dll.so",
+      "target": "crypt32.dll.so"
+    },
+    {
+      "source": "cryptui.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "cryptui.dll.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "cryptui.dll.so",
+      "target": "comdlg32.dll.so"
+    },
+    {
+      "source": "cryptui.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "cryptui.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "cryptui.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "ctapi32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "ctl3d.dll16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "ctl3d32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "ctl3dv2.dll16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d2d1.dll.so",
+      "target": "d3d10_1.dll.so"
+    },
+    {
+      "source": "d2d1.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d2d1.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d2d1.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d2d1.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3d10.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3d10.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3d10.dll.so",
+      "target": "d3d10core.dll.so"
+    },
+    {
+      "source": "d3d10.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3d10.dll.so",
+      "target": "dxgi.dll.so"
+    },
+    {
+      "source": "d3d10core.dll.so",
+      "target": "d3d11.dll.so"
+    },
+    {
+      "source": "d3d10_1.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3d10_1.dll.so",
+      "target": "d3d10core.dll.so"
+    },
+    {
+      "source": "d3d10_1.dll.so",
+      "target": "dxgi.dll.so"
+    },
+    {
+      "source": "d3d11.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3d11.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3d11.dll.so",
+      "target": "dxgi.dll.so"
+    },
+    {
+      "source": "d3d11.dll.so",
+      "target": "wined3d.dll.so"
+    },
+    {
+      "source": "d3d8.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3d8.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3d8.dll.so",
+      "target": "wined3d.dll.so"
+    },
+    {
+      "source": "d3d9.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3d9.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3d9.dll.so",
+      "target": "wined3d.dll.so"
+    },
+    {
+      "source": "d3dcompiler_33.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_33.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dcompiler_34.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_34.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dcompiler_35.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_35.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dcompiler_36.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_36.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dcompiler_37.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_37.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dcompiler_38.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_38.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dcompiler_39.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_39.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dcompiler_40.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_40.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dcompiler_41.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_41.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dcompiler_42.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_42.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dcompiler_43.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_43.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dcompiler_46.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_46.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dcompiler_47.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dcompiler_47.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3drm.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3drm.dll.so",
+      "target": "ddraw.dll.so"
+    },
+    {
+      "source": "d3dx10_43.dll.so",
+      "target": "d3d10_1.dll.so"
+    },
+    {
+      "source": "d3dx10_43.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx10_43.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx11_42.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx11_43.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_24.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_24.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_24.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_24.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_24.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_24.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_24.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_25.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_25.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_25.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_25.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_25.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_25.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_25.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_26.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_26.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_26.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_26.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_26.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_26.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_26.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_27.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_27.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_27.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_27.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_27.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_27.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_27.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_28.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_28.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_28.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_28.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_28.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_28.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_28.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_29.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_29.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_29.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_29.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_29.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_29.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_29.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_30.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_30.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_30.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_30.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_30.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_30.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_30.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_31.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_31.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_31.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_31.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_31.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_31.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_31.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_32.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_32.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_32.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_32.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_32.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_33.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_33.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_33.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_33.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_33.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_33.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_33.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_34.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_34.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_34.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_34.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_34.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_34.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_34.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_35.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_35.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_35.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_35.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_35.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_35.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_35.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_36.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_36.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_36.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_36.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_36.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_36.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_36.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_37.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_37.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_37.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_37.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_37.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_37.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_37.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_38.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_38.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_38.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_38.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_38.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_38.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_38.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_39.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_39.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_39.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_39.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_39.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_39.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_39.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_40.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_40.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_40.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_40.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_40.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_40.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_40.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_41.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_41.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_41.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_41.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_41.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_41.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_41.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_42.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_42.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_42.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_42.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_42.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_42.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_42.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dx9_43.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "d3dx9_43.dll.so",
+      "target": "d3dcompiler_33.dll.so"
+    },
+    {
+      "source": "d3dx9_43.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dx9_43.dll.so",
+      "target": "d3dxof.dll.so"
+    },
+    {
+      "source": "d3dx9_43.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dx9_43.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "d3dx9_43.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "d3dxof.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "d3dxof.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "d3dxof.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "d3dxof.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dbghelp.dll.so",
+      "target": "psapi.dll.so"
+    },
+    {
+      "source": "ddeml.dll16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "ddraw.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "ddraw.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "ddraw.dll.so",
+      "target": "wined3d.dll.so"
+    },
+    {
+      "source": "ddraw.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "ddraw.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "ddraw.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "ddrawex.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "ddrawex.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "ddrawex.dll.so",
+      "target": "ddraw.dll.so"
+    },
+    {
+      "source": "ddrawex.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "ddrawex.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "devenum.dll.so",
+      "target": "libstrmiids.a"
+    },
+    {
+      "source": "devenum.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "devenum.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "devenum.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "devenum.dll.so",
+      "target": "avicap32.dll.so"
+    },
+    {
+      "source": "devenum.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "devenum.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "devenum.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dinput.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dinput.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dinput.dll.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "dinput.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dinput.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "dinput.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dinput8.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dinput8.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dinput8.dll.so",
+      "target": "dinput.dll.so"
+    },
+    {
+      "source": "dinput8.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dinput8.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dispex.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dispex.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "dispex.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dispex.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "dispex.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "display.drv16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "dmband.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dmband.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dmband.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dmband.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dmcompos.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dmcompos.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dmcompos.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dmcompos.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dmime.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dmime.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dmime.dll.so",
+      "target": "dsound.dll.so"
+    },
+    {
+      "source": "dmime.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dmime.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "dmime.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dmloader.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dmloader.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dmloader.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dmloader.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dmscript.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dmscript.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dmscript.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dmscript.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dmstyle.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dmstyle.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dmstyle.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dmstyle.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dmsynth.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dmsynth.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dmsynth.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dmsynth.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dmusic.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dmusic.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dmusic.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dmusic.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dmusic.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "dmusic32.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dnsapi.dll.so",
+      "target": "netapi32.dll.so"
+    },
+    {
+      "source": "dplay.dll.so",
+      "target": "dplayx.dll.so"
+    },
+    {
+      "source": "dplayx.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dplayx.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dplayx.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "dplayx.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dplayx.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "dplayx.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dpnaddr.dll.so",
+      "target": "dpnet.dll.so"
+    },
+    {
+      "source": "dpnet.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dpnet.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dpnet.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dpnet.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dpnet.dll.so",
+      "target": "ws2_32.dll.so"
+    },
+    {
+      "source": "dpnlobby.dll.so",
+      "target": "dpnet.dll.so"
+    },
+    {
+      "source": "dpvoice.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dpvoice.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dpwsockx.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dpwsockx.dll.so",
+      "target": "ws2_32.dll.so"
+    },
+    {
+      "source": "dsound.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dsound.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dsound.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "dsound.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dsound.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dsound.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "dswave.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dswave.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dswave.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dswave.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dwrite.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "dwrite.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "dwrite.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dxdiagn.dll.so",
+      "target": "libstrmiids.a"
+    },
+    {
+      "source": "dxdiagn.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dxdiagn.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dxdiagn.dll.so",
+      "target": "d3d9.dll.so"
+    },
+    {
+      "source": "dxdiagn.dll.so",
+      "target": "ddraw.dll.so"
+    },
+    {
+      "source": "dxdiagn.dll.so",
+      "target": "version.dll.so"
+    },
+    {
+      "source": "dxdiagn.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "dxdiagn.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "dxdiagn.dll.so",
+      "target": "psapi.dll.so"
+    },
+    {
+      "source": "dxdiagn.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "dxdiagn.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "dxgi.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "dxgi.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "dxgi.dll.so",
+      "target": "wined3d.dll.so"
+    },
+    {
+      "source": "dxgi.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "explorerframe.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "explorerframe.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "explorerframe.dll.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "explorerframe.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "explorerframe.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "faultrep.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "fntcache.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "fusion.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "fusion.dll.so",
+      "target": "dbghelp.dll.so"
+    },
+    {
+      "source": "fusion.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "fusion.dll.so",
+      "target": "version.dll.so"
+    },
+    {
+      "source": "fusion.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "gameux.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "gameux.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "gameux.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "gameux.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "gameux.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "gameux.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "gameux.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "gdi.exe16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "gdi.exe16.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "gdi.exe16.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "gdi32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "gdiplus.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "gdiplus.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "gdiplus.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "gdiplus.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "gdiplus.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "gphoto2.ds.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "gphoto2.ds.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "gphoto2.ds.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "gphoto2.ds.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "hhctrl.ocx.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "hhctrl.ocx.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "hhctrl.ocx.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "hhctrl.ocx.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "hhctrl.ocx.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "hhctrl.ocx.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "hhctrl.ocx.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "hhctrl.ocx.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "hidclass.sys.so",
+      "target": "ntoskrnl.exe.so"
+    },
+    {
+      "source": "hlink.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "hlink.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "hlink.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "hlink.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "hnetcfg.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "hnetcfg.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "hnetcfg.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "iccvid.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "ieframe.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "ieframe.dll.so",
+      "target": "urlmon.dll.so"
+    },
+    {
+      "source": "ieframe.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "ieframe.dll.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "ieframe.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "ieframe.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "ieframe.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "ieframe.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "ieframe.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "ieframe.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "ifsmgr.vxd.so",
+      "target": "kernel32.dll.so"
+    },
+    {
+      "source": "imaadp32.acm.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "imaadp32.acm.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "imagehlp.dll.so",
+      "target": "dbghelp.dll.so"
+    },
+    {
+      "source": "imm32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "imm32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "imm32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "inetcomm.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "inetcomm.dll.so",
+      "target": "propsys.dll.so"
+    },
+    {
+      "source": "inetcomm.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "inetcomm.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "inetcomm.dll.so",
+      "target": "ws2_32.dll.so"
+    },
+    {
+      "source": "inetcomm.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "inetcomm.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "inetcpl.cpl.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "inetcpl.cpl.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "inetcpl.cpl.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "inetcpl.cpl.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "inetmib1.dll.so",
+      "target": "snmpapi.dll.so"
+    },
+    {
+      "source": "infosoft.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "infosoft.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "inseng.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "inseng.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "inseng.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "iphlpapi.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "itss.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "itss.dll.so",
+      "target": "urlmon.dll.so"
+    },
+    {
+      "source": "itss.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "itss.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "joy.cpl.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "joy.cpl.so",
+      "target": "dinput.dll.so"
+    },
+    {
+      "source": "joy.cpl.so",
+      "target": "dinput8.dll.so"
+    },
+    {
+      "source": "joy.cpl.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "joy.cpl.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "joy.cpl.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "joy.cpl.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "jscript.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "jscript.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "jscript.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "jscript.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "jsproxy.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "jsproxy.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "jsproxy.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "kernel32.dll.so",
+      "target": "libwinecrt0.a"
+    },
+    {
+      "source": "kernel32.dll.so",
+      "target": "ntdll.dll.so"
+    },
+    {
+      "source": "keyboard.drv16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "krnl386.exe16.so",
+      "target": "libwinecrt0.a"
+    },
+    {
+      "source": "krnl386.exe16.so",
+      "target": "kernel32.dll.so"
+    },
+    {
+      "source": "krnl386.exe16.so",
+      "target": "ntdll.dll.so"
+    },
+    {
+      "source": "localspl.dll.so",
+      "target": "spoolss.dll.so"
+    },
+    {
+      "source": "localspl.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "localspl.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "localui.dll.so",
+      "target": "winspool.drv.so"
+    },
+    {
+      "source": "localui.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "lzexpand.dll16.so",
+      "target": "lz32.dll.so"
+    },
+    {
+      "source": "mapi32.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "mapi32.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "mapi32.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "mapi32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mapi32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "mciavi32.dll.so",
+      "target": "msvfw32.dll.so"
+    },
+    {
+      "source": "mciavi32.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "mciavi32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mciavi32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "mcicda.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "mcicda.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mciqtz32.dll.so",
+      "target": "libstrmiids.a"
+    },
+    {
+      "source": "mciqtz32.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "mciqtz32.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "mciqtz32.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "mciqtz32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mciqtz32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "mciseq.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "mciseq.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mciwave.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "mciwave.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "midimap.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "midimap.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "midimap.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "mlang.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "mlang.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "mlang.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "mlang.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "mmcndmgr.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "mmcndmgr.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "mmcndmgr.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "mmcndmgr.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mmdevapi.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "mmdevapi.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "mmdevapi.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "mmdevapi.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mmdevapi.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "mmsystem.dll16.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "mmsystem.dll16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mountmgr.sys.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "mountmgr.sys.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "mountmgr.sys.so",
+      "target": "ntoskrnl.exe.so"
+    },
+    {
+      "source": "mouse.drv16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mpr.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mpr.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "msacm.dll16.so",
+      "target": "msacm32.dll.so"
+    },
+    {
+      "source": "msacm32.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "msacm32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "msacm32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "msacm32.drv.so",
+      "target": "msacm32.dll.so"
+    },
+    {
+      "source": "msacm32.drv.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "msacm32.drv.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "msadp32.acm.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "msadp32.acm.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mscat32.dll.so",
+      "target": "wintrust.dll.so"
+    },
+    {
+      "source": "mscms.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "mscms.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "mscoree.dll.so",
+      "target": "dbghelp.dll.so"
+    },
+    {
+      "source": "mscoree.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "mscoree.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "mscoree.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "mscoree.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "mscoree.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "mscoree.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "msctf.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "msctf.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "msctf.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "msctf.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "msctf.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "msctfp.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "msctfp.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "msctfp.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "msdaps.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "msdaps.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "msdaps.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "msdaps.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "msdaps.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "msdmo.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "msdmo.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "msdmo.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "msdmo.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "msftedit.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "msftedit.dll.so",
+      "target": "riched20.dll.so"
+    },
+    {
+      "source": "msg711.acm.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "msg711.acm.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "msgsm32.acm.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "msgsm32.acm.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mshtml.dll.so",
+      "target": "libstrmiids.a"
+    },
+    {
+      "source": "mshtml.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "mshtml.dll.so",
+      "target": "urlmon.dll.so"
+    },
+    {
+      "source": "mshtml.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "mshtml.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "mshtml.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "mshtml.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "mshtml.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mshtml.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "mshtml.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "urlmon.dll.so"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "wininet.dll.so"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "cabinet.dll.so"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "version.dll.so"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "msi.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "msimg32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "msimtf.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "msimtf.dll.so",
+      "target": "imm32.dll.so"
+    },
+    {
+      "source": "msisip.dll.so",
+      "target": "crypt32.dll.so"
+    },
+    {
+      "source": "msisip.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "msisys.ocx.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "msrle32.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "msrle32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "msscript.ocx.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "msscript.ocx.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "msscript.ocx.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "msscript.ocx.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "mstask.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "mstask.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "msvcirt.dll.so",
+      "target": "msvcrt.dll.so"
+    },
+    {
+      "source": "msvcp100.dll.so",
+      "target": "msvcr100.dll.so"
+    },
+    {
+      "source": "msvcp110.dll.so",
+      "target": "msvcr110.dll.so"
+    },
+    {
+      "source": "msvcp120.dll.so",
+      "target": "msvcr120.dll.so"
+    },
+    {
+      "source": "msvcp140.dll.so",
+      "target": "ucrtbase.dll.so"
+    },
+    {
+      "source": "msvcp60.dll.so",
+      "target": "msvcrt.dll.so"
+    },
+    {
+      "source": "msvcp70.dll.so",
+      "target": "msvcr70.dll.so"
+    },
+    {
+      "source": "msvcp71.dll.so",
+      "target": "msvcr71.dll.so"
+    },
+    {
+      "source": "msvcp80.dll.so",
+      "target": "msvcr80.dll.so"
+    },
+    {
+      "source": "msvcp90.dll.so",
+      "target": "msvcr90.dll.so"
+    },
+    {
+      "source": "msvcrt20.dll.so",
+      "target": "msvcrt.dll.so"
+    },
+    {
+      "source": "msvcrt40.dll.so",
+      "target": "msvcrt.dll.so"
+    },
+    {
+      "source": "msvcrtd.dll.so",
+      "target": "msvcrt.dll.so"
+    },
+    {
+      "source": "msvfw32.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "msvfw32.dll.so",
+      "target": "version.dll.so"
+    },
+    {
+      "source": "msvfw32.dll.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "msvfw32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "msvfw32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "msvfw32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "msvidc32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "msvideo.dll16.so",
+      "target": "msvfw32.dll.so"
+    },
+    {
+      "source": "msvideo.dll16.so",
+      "target": "version.dll.so"
+    },
+    {
+      "source": "msvideo.dll16.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "msvideo.dll16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "mswsock.dll.so",
+      "target": "ws2_32.dll.so"
+    },
+    {
+      "source": "msxml3.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "msxml3.dll.so",
+      "target": "urlmon.dll.so"
+    },
+    {
+      "source": "msxml3.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "msxml3.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "msxml3.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "msxml3.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "msxml3.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "msxml4.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "msxml4.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "msxml6.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "msxml6.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "msxml6.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "netapi32.dll.so",
+      "target": "iphlpapi.dll.so"
+    },
+    {
+      "source": "netapi32.dll.so",
+      "target": "ws2_32.dll.so"
+    },
+    {
+      "source": "netapi32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "netcfgx.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "netprofm.dll.so",
+      "target": "iphlpapi.dll.so"
+    },
+    {
+      "source": "npmshtml.dll.so",
+      "target": "mshtml.dll.so"
+    },
+    {
+      "source": "ntdll.dll.so",
+      "target": "libwinecrt0.a"
+    },
+    {
+      "source": "ntdsapi.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "ntoskrnl.exe.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "ntprint.dll.so",
+      "target": "winspool.drv.so"
+    },
+    {
+      "source": "objsel.dll.so",
+      "target": "libstrmiids.a"
+    },
+    {
+      "source": "objsel.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "objsel.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "objsel.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "odbc32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "odbccp32.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "odbccp32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "ole2.dll16.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "ole2.dll16.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "ole2.dll16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "ole2.dll16.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "ole32.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "ole32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "ole32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "ole32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "ole32.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "oleacc.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "oleacc.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "oleacc.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "oleacc.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "oleacc.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "oleaut32.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "oleaut32.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "oleaut32.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "oleaut32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "oleaut32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "oleaut32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "olecli.dll16.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "olecli32.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "olecli32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "oledb32.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "oledb32.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "oledb32.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "oledb32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "oledb32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "oledlg.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "oledlg.dll.so",
+      "target": "comdlg32.dll.so"
+    },
+    {
+      "source": "oledlg.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "oledlg.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "olepro32.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "olesvr.dll16.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "opengl32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "opengl32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "opengl32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "packager.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "packager.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "packager.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "packager.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "powrprof.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "printui.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "propsys.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "propsys.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "propsys.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "pstorec.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "qcap.dll.so",
+      "target": "libstrmiids.a"
+    },
+    {
+      "source": "qcap.dll.so",
+      "target": "libstrmbase.a"
+    },
+    {
+      "source": "qcap.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "qcap.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "qcap.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "qcap.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "qcap.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "qedit.dll.so",
+      "target": "libstrmiids.a"
+    },
+    {
+      "source": "qedit.dll.so",
+      "target": "libstrmbase.a"
+    },
+    {
+      "source": "qedit.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "qedit.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "qedit.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "qedit.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "qmgr.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "qmgr.dll.so",
+      "target": "winhttp.dll.so"
+    },
+    {
+      "source": "qmgr.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "qmgr.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "qmgrprxy.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "libstrmiids.a"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "libstrmbase.a"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "dsound.dll.so"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "msacm32.dll.so"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "msvfw32.dll.so"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "quartz.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "query.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "riched20.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "riched20.dll.so",
+      "target": "usp10.dll.so"
+    },
+    {
+      "source": "riched20.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "riched20.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "riched20.dll.so",
+      "target": "imm32.dll.so"
+    },
+    {
+      "source": "riched20.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "riched20.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "riched32.dll.so",
+      "target": "riched20.dll.so"
+    },
+    {
+      "source": "riched32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "rpcrt4.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "rpcrt4.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "rsabase.dll.so",
+      "target": "rsaenh.dll.so"
+    },
+    {
+      "source": "rsaenh.dll.so",
+      "target": "crypt32.dll.so"
+    },
+    {
+      "source": "rsaenh.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "sane.ds.so",
+      "target": "comctl32.dll.so"
+    },
+    {
+      "source": "sane.ds.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "sane.ds.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "schannel.dll.so",
+      "target": "secur32.dll.so"
+    },
+    {
+      "source": "schedsvc.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "schedsvc.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "schedsvc.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "scrrun.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "scrrun.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "scrrun.dll.so",
+      "target": "version.dll.so"
+    },
+    {
+      "source": "scrrun.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "scsiport.sys.so",
+      "target": "ntoskrnl.exe.so"
+    },
+    {
+      "source": "secur32.dll.so",
+      "target": "netapi32.dll.so"
+    },
+    {
+      "source": "secur32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "security.dll.so",
+      "target": "secur32.dll.so"
+    },
+    {
+      "source": "serialui.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "serialui.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "setupapi.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "setupapi.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "setupapi.dll.so",
+      "target": "version.dll.so"
+    },
+    {
+      "source": "setupapi.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "setupapi.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "setupx.dll16.so",
+      "target": "setupapi.dll.so"
+    },
+    {
+      "source": "setupx.dll16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "setupx.dll16.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "sfc.dll.so",
+      "target": "sfc_os.dll.so"
+    },
+    {
+      "source": "shdocvw.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "shdocvw.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "shdocvw.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "shell.dll16.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "shell.dll16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "shell.dll16.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "shell.dll16.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "shell32.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "shell32.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "shell32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "shell32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "shell32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "shfolder.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "shlwapi.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "shlwapi.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "shlwapi.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "shlwapi.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "softpub.dll.so",
+      "target": "wintrust.dll.so"
+    },
+    {
+      "source": "spoolss.dll.so",
+      "target": "winspool.drv.so"
+    },
+    {
+      "source": "sti.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "sti.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "sti.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "sti.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "sti.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "storage.dll16.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "storage.dll16.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "sxs.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "sxs.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "t2embed.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "t2embed.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "tapi32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "taskschd.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "taskschd.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "taskschd.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "taskschd.dll.so",
+      "target": "xmllite.dll.so"
+    },
+    {
+      "source": "taskschd.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "typelib.dll16.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "typelib.dll16.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "avicap32.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "msvfw32.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "oledlg.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "comdlg32.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "winspool.drv.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "rasapi32.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "secur32.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "sensapi.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "version.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "oleacc.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "mpr.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "unicows.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "updspapi.dll.so",
+      "target": "setupapi.dll.so"
+    },
+    {
+      "source": "url.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "url.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "urlmon.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "urlmon.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "urlmon.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "urlmon.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "urlmon.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "urlmon.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "urlmon.dll.so",
+      "target": "wininet.dll.so"
+    },
+    {
+      "source": "urlmon.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "urlmon.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "usbd.sys.so",
+      "target": "ntoskrnl.exe.so"
+    },
+    {
+      "source": "user.exe16.so",
+      "target": "mpr.dll.so"
+    },
+    {
+      "source": "user.exe16.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "user.exe16.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "user32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "user32.dll.so",
+      "target": "version.dll.so"
+    },
+    {
+      "source": "user32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "userenv.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "usp10.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "usp10.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "usp10.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "uxtheme.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "uxtheme.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "uxtheme.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "vbscript.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "vbscript.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "vbscript.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "ver.dll16.so",
+      "target": "version.dll.so"
+    },
+    {
+      "source": "ver.dll16.so",
+      "target": "lz32.dll.so"
+    },
+    {
+      "source": "vnbt.vxd.so",
+      "target": "iphlpapi.dll.so"
+    },
+    {
+      "source": "vnbt.vxd.so",
+      "target": "ws2_32.dll.so"
+    },
+    {
+      "source": "vnetbios.vxd.so",
+      "target": "netapi32.dll.so"
+    },
+    {
+      "source": "vwin32.vxd.so",
+      "target": "kernel32.dll.so"
+    },
+    {
+      "source": "w32skrnl.dll.so",
+      "target": "kernel32.dll.so"
+    },
+    {
+      "source": "wbemdisp.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "wbemdisp.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "wbemprox.dll.so",
+      "target": "winspool.drv.so"
+    },
+    {
+      "source": "wbemprox.dll.so",
+      "target": "version.dll.so"
+    },
+    {
+      "source": "wbemprox.dll.so",
+      "target": "iphlpapi.dll.so"
+    },
+    {
+      "source": "wbemprox.dll.so",
+      "target": "dxgi.dll.so"
+    },
+    {
+      "source": "wbemprox.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "wbemprox.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "wbemprox.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wbemprox.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wbemprox.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "wbemprox.dll.so",
+      "target": "ws2_32.dll.so"
+    },
+    {
+      "source": "wbemprox.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "webservices.dll.so",
+      "target": "winhttp.dll.so"
+    },
+    {
+      "source": "webservices.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "webservices.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wer.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wiaservc.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "wiaservc.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "wiaservc.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "winaspi.dll16.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "windowscodecs.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "windowscodecs.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "windowscodecs.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "windowscodecs.dll.so",
+      "target": "rpcrt4.dll.so"
+    },
+    {
+      "source": "windowscodecs.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "windowscodecs.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "windowscodecs.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "windowscodecs.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "windowscodecsext.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "winealsa.drv.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "winealsa.drv.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "winealsa.drv.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "winebus.sys.so",
+      "target": "ntoskrnl.exe.so"
+    },
+    {
+      "source": "winebus.sys.so",
+      "target": "setupapi.dll.so"
+    },
+    {
+      "source": "winecoreaudio.drv",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "winecoreaudio.drv",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "winecoreaudio.drv",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "winecoreaudio.drv",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wined3d.dll.so",
+      "target": "opengl32.dll.so"
+    },
+    {
+      "source": "wined3d.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wined3d.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "wined3d.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "winegstreamer.dll.so",
+      "target": "libstrmbase.a"
+    },
+    {
+      "source": "winegstreamer.dll.so",
+      "target": "libstrmiids.a"
+    },
+    {
+      "source": "winegstreamer.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "winegstreamer.dll.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "winegstreamer.dll.so",
+      "target": "msacm32.dll.so"
+    },
+    {
+      "source": "winegstreamer.dll.so",
+      "target": "msvfw32.dll.so"
+    },
+    {
+      "source": "winegstreamer.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "winegstreamer.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "winegstreamer.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "winegstreamer.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "winegstreamer.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "winehid.sys.so",
+      "target": "hidclass.sys.so"
+    },
+    {
+      "source": "winehid.sys.so",
+      "target": "ntoskrnl.exe.so"
+    },
+    {
+      "source": "winejoystick.drv.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "winejoystick.drv.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "winemac.drv",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "winemac.drv",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "winemac.drv",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "winemac.drv",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "winemapi.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "winemapi.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "winemapi.dll.so",
+      "target": "mapi32.dll.so"
+    },
+    {
+      "source": "winemp3.acm.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "winemp3.acm.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wineoss.drv",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "wineoss.drv",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "wineoss.drv",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wineoss.drv",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wineps.drv.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wineps.drv.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "wineps.drv.so",
+      "target": "winspool.drv.so"
+    },
+    {
+      "source": "wineps.drv.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wineps16.drv16.so",
+      "target": "winspool.drv.so"
+    },
+    {
+      "source": "winepulse.drv.so",
+      "target": "libdxguid.a"
+    },
+    {
+      "source": "winepulse.drv.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "winepulse.drv.so",
+      "target": "winmm.dll.so"
+    },
+    {
+      "source": "winepulse.drv.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "winepulse.drv.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "winepulse.drv.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "wineqtdecoder.dll",
+      "target": "libstrmiids.a"
+    },
+    {
+      "source": "wineqtdecoder.dll",
+      "target": "libstrmbase.a"
+    },
+    {
+      "source": "wineqtdecoder.dll",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "wineqtdecoder.dll",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "wineqtdecoder.dll",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "winex11.drv.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "winex11.drv.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "winex11.drv.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "winex11.drv.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wing.dll16.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "wing32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wing32.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "winhttp.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "winhttp.dll.so",
+      "target": "jsproxy.dll.so"
+    },
+    {
+      "source": "winhttp.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "winhttp.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wininet.dll.so",
+      "target": "mpr.dll.so"
+    },
+    {
+      "source": "wininet.dll.so",
+      "target": "shlwapi.dll.so"
+    },
+    {
+      "source": "wininet.dll.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "wininet.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wininet.dll.so",
+      "target": "ws2_32.dll.so"
+    },
+    {
+      "source": "wininet.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "winmm.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "winmm.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "winmm.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "winmm.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "winmm.dll.so",
+      "target": "msacm32.dll.so"
+    },
+    {
+      "source": "winnls.dll16.so",
+      "target": "winnls32.dll.so"
+    },
+    {
+      "source": "winsock.dll16.so",
+      "target": "ws2_32.dll.so"
+    },
+    {
+      "source": "winspool.drv.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "winspool.drv.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "winspool.drv.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wintab32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wintab32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wintrust.dll.so",
+      "target": "crypt32.dll.so"
+    },
+    {
+      "source": "wintrust.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wintrust.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wldap32.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wmi.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wmiutils.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "wmiutils.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "wmiutils.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wmp.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wmp.dll.so",
+      "target": "gdi32.dll.so"
+    },
+    {
+      "source": "wmp.dll.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "wmvcore.dll.so",
+      "target": "kernel32.dll.so"
+    },
+    {
+      "source": "wnaspi32.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wow32.dll.so",
+      "target": "kernel32.dll.so"
+    },
+    {
+      "source": "wshom.ocx.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "wshom.ocx.so",
+      "target": "oleaut32.dll.so"
+    },
+    {
+      "source": "wshom.ocx.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "wshom.ocx.so",
+      "target": "shell32.dll.so"
+    },
+    {
+      "source": "wshom.ocx.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "wshom.ocx.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "wsock32.dll.so",
+      "target": "mswsock.dll.so"
+    },
+    {
+      "source": "wsock32.dll.so",
+      "target": "ws2_32.dll.so"
+    },
+    {
+      "source": "wsock32.dll.so",
+      "target": "iphlpapi.dll.so"
+    },
+    {
+      "source": "wuapi.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "wuapi.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "wuapi.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "xapofx1_1.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xapofx1_2.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xapofx1_3.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xapofx1_4.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xapofx1_5.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xaudio2_0.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "xaudio2_0.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xaudio2_0.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "xaudio2_0.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "xaudio2_1.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "xaudio2_1.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xaudio2_1.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "xaudio2_1.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "xaudio2_2.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "xaudio2_2.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xaudio2_2.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "xaudio2_2.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "xaudio2_3.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "xaudio2_3.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xaudio2_3.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "xaudio2_3.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "xaudio2_4.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "xaudio2_4.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xaudio2_4.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "xaudio2_4.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "xaudio2_5.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "xaudio2_5.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xaudio2_5.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "xaudio2_5.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "xaudio2_6.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "xaudio2_6.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xaudio2_6.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "xaudio2_6.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "xaudio2_7.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "xaudio2_7.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xaudio2_7.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "xaudio2_7.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "xaudio2_8.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "xaudio2_8.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xaudio2_8.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "xaudio2_8.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "xaudio2_9.dll.so",
+      "target": "advapi32.dll.so"
+    },
+    {
+      "source": "xaudio2_9.dll.so",
+      "target": "ole32.dll.so"
+    },
+    {
+      "source": "xaudio2_9.dll.so",
+      "target": "user32.dll.so"
+    },
+    {
+      "source": "xaudio2_9.dll.so",
+      "target": "libuuid.a"
+    },
+    {
+      "source": "xolehlp.dll.so",
+      "target": "libadsiid.a"
+    },
+    {
+      "source": "xolehlp.dll.so",
+      "target": "libuuid.a"
+    }
+  ],
+  "nodes": [
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "acledit.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "aclui.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "activeds.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "actxprxy.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "advapi32.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "advpack.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "amstream.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-appmodel-identity-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-appmodel-runtime-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-apiquery-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-appcompat-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-appinit-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-atoms-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-bem-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-com-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-com-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-com-private-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-console-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-console-l2-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-datetime-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-datetime-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-debug-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-debug-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-delayload-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-delayload-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-core-errorhandling-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-errorhandling-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-errorhandling-l1-1-2.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-fibers-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-fibers-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-file-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-file-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-file-l1-2-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-file-l2-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-file-l2-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-core-handle-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-heap-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-heap-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-heap-obsolete-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-core-interlocked-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-interlocked-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-io-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-io-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-job-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-job-l2-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-kernel32-legacy-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-kernel32-legacy-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-kernel32-private-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-core-libraryloader-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-libraryloader-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-libraryloader-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-libraryloader-l1-2-2.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-localization-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-localization-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-localization-l1-2-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-localization-l2-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-localization-obsolete-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-localization-obsolete-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-localization-private-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-core-localregistry-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-memory-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-memory-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-memory-l1-1-2.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-core-misc-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-namedpipe-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-namedpipe-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-namespace-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-normalization-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-path-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-privateprofile-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-processenvironment-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-processenvironment-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-core-processthreads-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-processthreads-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-processthreads-l1-1-2.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-core-profile-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-psapi-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-psapi-obsolete-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-realtime-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-registry-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-registryuserspecific-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-rtlsupport-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-rtlsupport-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-shlwapi-legacy-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-shlwapi-obsolete-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-sidebyside-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-string-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-string-l2-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-string-obsolete-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-stringansi-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-synch-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-synch-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-core-sysinfo-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-sysinfo-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-sysinfo-l1-2-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-threadpool-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-threadpool-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-threadpool-legacy-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-timezone-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-toolhelp-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-url-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-util-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-version-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-version-private-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-versionansi-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-windowserrorreporting-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-winrt-error-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-winrt-error-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-winrt-errorprivate-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-winrt-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-winrt-registration-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-winrt-string-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-wow64-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-xstate-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-core-xstate-l2-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-conio-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-convert-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-environment-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-filesystem-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-heap-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-locale-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-math-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-multibyte-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-private-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-process-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-runtime-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-stdio-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-string-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-time-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-crt-utility-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-devices-config-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-devices-query-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-downlevel-advapi32-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-downlevel-advapi32-l2-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-downlevel-normaliz-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-downlevel-ole32-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-downlevel-shell32-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-downlevel-shlwapi-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-downlevel-shlwapi-l2-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-downlevel-user32-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-downlevel-version-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-dx-d3dkmt-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-eventing-classicprovider-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-eventing-consumer-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-eventing-controller-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-eventing-provider-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-eventlog-legacy-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-ntuser-dc-access-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-power-base-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-power-setting-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-rtcore-ntuser-private-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-security-audit-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-security-base-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-security-base-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-security-base-private-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-security-lsalookup-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-security-lsalookup-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-security-lsalookup-l2-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-security-lsapolicy-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-security-sddl-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-service-core-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-service-core-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-service-management-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-service-management-l2-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-service-private-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "api-ms-win-service-winsvc-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-service-winsvc-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-shell-shellcom-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "api-ms-win-shell-shellfolders-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "apphelp.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "cpl.so",
+      "id": "appwiz.cpl.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "atl.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "atl100.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "atl110.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "atl80.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "atl90.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "authz.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "avicap32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "avifil32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "avifile.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "avrt.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "bcrypt.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "bluetoothapis.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "browseui.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "cpl.so",
+      "id": "bthprops.cpl.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "cabinet.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "capi2032.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "cards.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "cfgmgr32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "clusapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "combase.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "comcat.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "comctl32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "comdlg32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "drv16.so",
+      "id": "comm.drv16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "commdlg.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "compobj.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "compstui.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "comsvcs.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "concrt140.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "connect.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "credui.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "crtdll.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "crypt32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "cryptdlg.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "cryptdll.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "cryptext.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "cryptnet.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "cryptui.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ctapi32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "ctl3d.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ctl3d32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "ctl3dv2.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d2d1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3d10.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3d10_1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3d10core.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3d11.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3d8.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3d9.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_33.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_34.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_35.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_36.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_37.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_38.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_39.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_40.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_41.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_42.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_43.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_46.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dcompiler_47.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dim.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3drm.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx10_33.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx10_34.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx10_35.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx10_36.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx10_37.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx10_38.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx10_39.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx10_40.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx10_41.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx10_42.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx10_43.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx11_42.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx11_43.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_24.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_25.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_26.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_27.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_28.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_29.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_30.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_31.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_33.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_34.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_35.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_36.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_37.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_38.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_39.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_40.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_41.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_42.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dx9_43.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "d3dxof.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "davclnt.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dbgeng.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dbghelp.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dciman32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "ddeml.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ddraw.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ddrawex.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "devenum.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dhcpcsvc.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "difxapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dinput.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dinput8.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "dispdib.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dispex.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "drv16.so",
+      "id": "display.drv16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dmband.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dmcompos.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dmime.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dmloader.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dmscript.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dmstyle.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dmsynth.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dmusic.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dmusic32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dnsapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dplay.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dplayx.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dpnaddr.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dpnet.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dpnhpast.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dpnlobby.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dpvoice.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dpwsockx.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "drmclien.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dsound.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dssenh.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dswave.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dwmapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dwrite.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dxdiagn.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dxgi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "dxva2.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "esent.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "evr.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "explorerframe.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-domainjoin-netjoin-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-gdi-dc-create-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-gdi-dc-l1-2-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-gdi-devcaps-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-gdi-draw-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-gdi-render-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-kernel32-package-current-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-ntuser-message-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-ntuser-private-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-ntuser-rectangle-ext-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-ntuser-uicontext-ext-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-ntuser-window-l1-1-1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-rtcore-gdi-object-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-rtcore-gdi-rgn-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-rtcore-ntuser-dc-access-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-rtcore-ntuser-dpi-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ext-ms-win-rtcore-ntuser-sysparams-l1-1-0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "faultrep.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "fltlib.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "sys.so",
+      "id": "fltmgr.sys.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "fntcache.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "fontsub.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "fusion.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "fwpuclnt.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "gameux.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "exe16.so",
+      "id": "gdi.exe16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 2,
+      "group": "dll.so",
+      "id": "gdi32.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "gdiplus.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "glu32.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "ds.so",
+      "id": "gphoto2.ds.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "gpkcsp.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "hal.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "ocx.so",
+      "id": "hhctrl.ocx.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "hid.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "sys.so",
+      "id": "hidclass.sys.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "hlink.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "hnetcfg.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "httpapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "iccvid.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "icmp.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ieframe.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "vxd.so",
+      "id": "ifsmgr.vxd.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "acm.so",
+      "id": "imaadp32.acm.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "imagehlp.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "imm.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "imm32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "inetcomm.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "cpl.so",
+      "id": "inetcpl.cpl.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "inetmib1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "infosoft.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "initpki.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "inkobj.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "inseng.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "iphlpapi.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "iprop.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "cpl.so",
+      "id": "irprops.cpl.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "itircl.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "itss.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "cpl.so",
+      "id": "joy.cpl.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "jscript.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "jsproxy.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 2,
+      "group": "dll.so",
+      "id": "kernel32.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "kernelbase.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "drv16.so",
+      "id": "keyboard.drv16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "exe16.so",
+      "id": "krnl386.exe16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ksuser.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ktmw32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "libadsiid.a",
+      "id": "libadsiid.a",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "libdxerr8.a",
+      "id": "libdxerr8.a",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "libdxerr9.a",
+      "id": "libdxerr9.a",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "libdxguid.a",
+      "id": "libdxguid.a",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "libstrmbase.a",
+      "id": "libstrmbase.a",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "libstrmiids.a",
+      "id": "libstrmiids.a",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "libuuid.a",
+      "id": "libuuid.a",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "libwinecrt0.a",
+      "id": "libwinecrt0.a",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "loadperf.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "localspl.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "localui.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "lz32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "lzexpand.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mapi32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mapistub.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mciavi32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mcicda.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mciqtz32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mciseq.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mciwave.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mf.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mfplat.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mfreadwrite.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mgmtapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "midimap.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mlang.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mmcndmgr.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mmdevapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "vxd.so",
+      "id": "mmdevldr.vxd.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "mmsystem.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "vxd.so",
+      "id": "monodebg.vxd.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "sys.so",
+      "id": "mountmgr.sys.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "drv16.so",
+      "id": "mouse.drv16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mpr.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mprapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "msacm.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msacm32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "drv.so",
+      "id": "msacm32.drv.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "acm.so",
+      "id": "msadp32.acm.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msasn1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mscat32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mscms.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mscoree.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msctf.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msctfp.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msdaps.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msdelta.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msdmo.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msdrm.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msftedit.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "acm.so",
+      "id": "msg711.acm.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "acm.so",
+      "id": "msgsm32.acm.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mshtml.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "tlb.so",
+      "id": "mshtml.tlb.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msident.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msimg32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msimsg.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msimtf.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msisip.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "ocx.so",
+      "id": "msisys.ocx.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msls31.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msnet32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mspatcha.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msports.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msrle32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "ocx.so",
+      "id": "msscript.ocx.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mssign32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mssip32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mstask.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcirt.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcm80.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcm90.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcp100.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcp110.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcp120.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcp120_app.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcp140.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcp60.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcp70.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcp71.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcp80.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcp90.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcr100.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcr110.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcr120.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcr120_app.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcr70.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcr71.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcr80.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcr90.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "msvcrt.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcrt20.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcrt40.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvcrtd.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvfw32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msvidc32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "msvideo.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "mswsock.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msxml.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msxml2.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msxml3.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msxml4.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "msxml6.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ncrypt.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "nddeapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "sys.so",
+      "id": "ndis.sys.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "netapi32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "netcfgx.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "netprofm.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "newdev.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "normaliz.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "npmshtml.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "npptools.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 1,
+      "group": "dll.so",
+      "id": "ntdll.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ntdsapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "exe.so",
+      "id": "ntoskrnl.exe.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ntprint.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "objsel.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "odbc32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "odbccp32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "odbccu32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "ole2.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "ole2conv.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "ole2disp.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "ole2nls.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "ole2prox.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "ole2thk.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "ole32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "oleacc.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "oleaut32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "olecli.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "olecli32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "oledb32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "oledlg.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "olepro32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "olesvr.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "olesvr32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "olethk32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "openal32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "opencl.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "opengl32.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "packager.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "pdh.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "photometadatahandler.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "pidgen.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "powrprof.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "printui.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "prntvpt.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "propsys.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "psapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "pstorec.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "qcap.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "qedit.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "qmgr.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "qmgrprxy.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "quartz.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "query.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "rasapi16.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "rasapi32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "rasdlg.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "regapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "resutils.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "riched20.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "riched32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "rpcrt4.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "rsabase.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "rsaenh.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "rstrtmgr.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "rtutils.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "samlib.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "ds.so",
+      "id": "sane.ds.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "scarddlg.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "sccbase.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "schannel.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "schedsvc.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "scrrun.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "sys.so",
+      "id": "scsiport.sys.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "secur32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "security.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "sensapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "serialui.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "setupapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "setupx.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "sfc.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "sfc_os.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "shdoclc.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "shdocvw.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "shell.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "shell32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "shfolder.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "shlwapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "slbcsp.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "slc.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "snmpapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "softpub.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "drv16.so",
+      "id": "sound.drv16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "spoolss.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "sspicli.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "tlb.so",
+      "id": "stdole2.tlb.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "tlb.so",
+      "id": "stdole32.tlb.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "sti.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "storage.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "stress.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "svrapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "sxs.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "drv16.so",
+      "id": "system.drv16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "t2embed.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "tapi32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "taskschd.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "sys.so",
+      "id": "tdi.sys.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "toolhelp.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "traffic.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "twain.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "twain_32.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "typelib.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "ucrtbase.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "unicows.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "updspapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "url.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "urlmon.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "sys.so",
+      "id": "usbd.sys.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "exe16.so",
+      "id": "user.exe16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 2,
+      "group": "dll.so",
+      "id": "user32.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "userenv.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "usp10.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "uxtheme.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "vbscript.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "vcomp.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "vcomp100.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "vcomp110.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "vcomp120.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "vcomp140.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "vcomp90.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "vcruntime140.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "vxd.so",
+      "id": "vdhcp.vxd.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "vdmdbg.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "ver.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "version.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "vxd.so",
+      "id": "vmm.vxd.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "vxd.so",
+      "id": "vnbt.vxd.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "vxd.so",
+      "id": "vnetbios.vxd.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "vssapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "vxd.so",
+      "id": "vtdapi.vxd.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "vxd.so",
+      "id": "vwin32.vxd.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "w32skrnl.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "w32sys.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wbemdisp.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wbemprox.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "webservices.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wer.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wevtapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wiaservc.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wimgapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "win32s16.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "win87em.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "winaspi.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "windebug.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "windowscodecs.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "windowscodecsext.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "drv.so",
+      "id": "winealsa.drv.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "sys.so",
+      "id": "winebus.sys.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "winecoreaudio.drv",
+      "id": "winecoreaudio.drv",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wined3d.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "winegstreamer.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "sys.so",
+      "id": "winehid.sys.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "drv.so",
+      "id": "winejoystick.drv.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "winemac.drv",
+      "id": "winemac.drv",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "winemapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "acm.so",
+      "id": "winemp3.acm.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "wineoss.drv",
+      "id": "wineoss.drv",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "drv.so",
+      "id": "wineps.drv.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "drv16.so",
+      "id": "wineps16.drv16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "drv.so",
+      "id": "winepulse.drv.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "wineqtdecoder.dll",
+      "id": "wineqtdecoder.dll",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "drv.so",
+      "id": "winex11.drv.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "wing.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wing32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "winhttp.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wininet.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "winmm.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "winnls.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "winnls32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "winscard.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "winsock.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "drv.so",
+      "id": "winspool.drv.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "winsta.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll16.so",
+      "id": "wintab.dll16.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wintab32.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wintrust.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wlanapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wldap32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wmasf.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wmi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wmiutils.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wmp.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wmvcore.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wnaspi32.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wow32.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wpc.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wpcap.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll.so",
+      "id": "ws2_32.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "ocx.so",
+      "id": "wshom.ocx.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wsnmp32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wsock32.dll.so",
+      "replace_option": "no"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wtsapi32.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wuapi.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "wuaueng.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "x3daudio1_0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "x3daudio1_1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "x3daudio1_2.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "x3daudio1_3.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "x3daudio1_4.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "x3daudio1_5.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "x3daudio1_6.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "x3daudio1_7.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xapofx1_1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xapofx1_2.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xapofx1_3.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xapofx1_4.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xapofx1_5.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xaudio2_0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xaudio2_1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xaudio2_2.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xaudio2_3.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xaudio2_4.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xaudio2_5.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xaudio2_6.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xaudio2_7.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xaudio2_8.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xaudio2_9.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xinput1_1.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xinput1_2.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xinput1_3.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xinput1_4.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xinput9_1_0.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xmllite.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xolehlp.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xpsprint.dll.so",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 4,
+      "group": "dll.so",
+      "id": "xpssvcs.dll.so",
+      "replace_option": "unknown"
+    }
+  ]
+}
