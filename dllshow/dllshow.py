@@ -12,6 +12,10 @@ app.register_blueprint(dllapi, url_prefix='/dllapi')
 app.register_blueprint(dllforward, url_prefix='/dllforward')
 app.register_blueprint(dllgraph, url_prefix='/dllgraph')
 
+@app.route('/')
+def index():
+	return render_template('dllshow/index.html')
+	
 @app.errorhandler(404)
 def page_not_found(e):
     return render_template('dllshow/404.html'), 404
