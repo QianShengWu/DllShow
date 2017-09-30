@@ -20,4 +20,4 @@
 
 主页如下所示：
 
-![index](C:\Users\wqs\Desktop\DllShow\index.png)
+![index](.\index.png)
