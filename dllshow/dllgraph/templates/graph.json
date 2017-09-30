@@ -1,0 +1,122 @@
+{
+  "links": [
+    {
+      "source": "actxprxy.dll",
+      "target": "oleaut32.dll"
+    },
+    {
+      "source": "actxprxy.dll",
+      "target": "ole32.dll"
+    },
+    {
+      "source": "actxprxy.dll",
+      "target": "rpcrt4.dll"
+    },
+    {
+      "source": "oleaut32.dll",
+      "target": "ole32.dll"
+    },
+    {
+      "source": "oleaut32.dll",
+      "target": "rpcrt4.dll"
+    },
+    {
+      "source": "oleaut32.dll",
+      "target": "user32.dll"
+    },
+    {
+      "source": "oleaut32.dll",
+      "target": "gdi32.dll"
+    },
+    {
+      "source": "oleaut32.dll",
+      "target": "advapi32.dll"
+    },
+    {
+      "source": "ole32.dll",
+      "target": "advapi32.dll"
+    },
+    {
+      "source": "ole32.dll",
+      "target": "user32.dll"
+    },
+    {
+      "source": "ole32.dll",
+      "target": "gdi32.dll"
+    },
+    {
+      "source": "ole32.dll",
+      "target": "rpcrt4.dll"
+    },
+    {
+      "source": "user32.dll",
+      "target": "gdi32.dll"
+    },
+    {
+      "source": "user32.dll",
+      "target": "version.dll"
+    },
+    {
+      "source": "user32.dll",
+      "target": "advapi32.dll"
+    },
+    {
+      "source": "gdi32.dll",
+      "target": "advapi32.dll"
+    },
+    {
+      "source": "rpcrt4.dll",
+      "target": "advapi32.dll"
+    }
+  ],
+  "nodes": [
+    {
+      "depth": 4,
+      "group": "dll",
+      "id": "actxprxy.dll",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll",
+      "id": "oleaut32.dll",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll",
+      "id": "ole32.dll",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll",
+      "id": "advapi32.dll",
+      "replace_option": "no"
+    },
+    {
+      "depth": 2,
+      "group": "dll",
+      "id": "user32.dll",
+      "replace_option": "no"
+    },
+    {
+      "depth": 2,
+      "group": "dll",
+      "id": "gdi32.dll",
+      "replace_option": "no"
+    },
+    {
+      "depth": 3,
+      "group": "dll",
+      "id": "version.dll",
+      "replace_option": "unknown"
+    },
+    {
+      "depth": 3,
+      "group": "dll",
+      "id": "rpcrt4.dll",
+      "replace_option": "unknown"
+    }
+  ]
+}

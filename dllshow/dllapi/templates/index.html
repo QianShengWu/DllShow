@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<title>wqs</title>
+<meta charset="utf-8">
+<script src="//d3js.org/d3.v3.min.js"></script>
+<link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<style>
+
+    .links line {
+        stroke: #999;
+        stroke-opacity: 0.6;
+    }
+
+    .nodes circle {
+        stroke: #fff;
+        stroke-width: 1.5px;
+    }
+
+    .dropdown-submenu {
+        position: relative;
+    }
+
+    .dropdown-submenu > .dropdown-menu {
+        top: 0;
+        left: 100%;
+        margin-top: -6px;
+        margin-left: -1px;
+        -webkit-border-radius: 0 6px 6px 6px;
+        -moz-border-radius: 0 6px 6px;
+        border-radius: 0 6px 6px 6px;
+    }
+
+    .dropdown-submenu:hover > .dropdown-menu {
+        display: block;
+    }
+
+    .dropdown-submenu > a:after {
+        display: block;
+        content: " ";
+        float: right;
+        width: 0;
+        height: 0;
+        border-color: transparent;
+        border-style: solid;
+        border-width: 5px 0 5px 5px;
+        border-left-color: #ccc;
+        margin-top: 5px;
+        margin-right: -10px;
+    }
+
+    .dropdown-submenu:hover > a:after {
+        border-left-color: #fff;
+    }
+
+    .dropdown-submenu.pull-left {
+        float: none;
+    }
+
+    .dropdown-submenu.pull-left > .dropdown-menu {
+        left: -100%;
+        margin-left: 10px;
+        -webkit-border-radius: 6px 0 6px 6px;
+        -moz-border-radius: 6px 0 6px 6px;
+        border-radius: 6px 0 6px 6px;
+    }
+
+</style>
+<div class="container">
+    <div class="row">
+        <h2>请选择dll名称，api名称</h2>
+        <hr>
+        <div class="dropdown">
+            <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary" data-target="#" href="#">
+                Nodes <span class="caret"></span>
+            </a>
+            <ul id="nodes" class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
+
+            </ul>
+        </div>
+    </div>
+</div>
+<svg width="1800" height="500"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+    var svg = d3.select("svg"),
+        width = +svg.attr("width"),
+        height = +svg.attr("height");
+
+    var color = d3.scaleOrdinal(d3.schemeCategory20);
+
+    var simulation = d3.forceSimulation()
+        .force("link", d3.forceLink().id(function (d) {
+            return d.id;
+        }).distance(100).strength(-1))
+        .force("charge", d3.forceManyBody())
+        .force("center", d3.forceCenter(width / 2, height / 2));
+    d3.json("/dllapi/getNodes/{{tbName}}/{{flag}}", function (error, nodes) {
+        if (error) throw error;
+
+        var ul = d3.select("#nodes");
+        nodes.forEach(function (v) {
+            var li = ul.append("li")
+                .attr("class", "dropdown-submenu");
+            li.append("a")
+                .attr("tabindex", "-1")
+                .text(v["dllName"]);
+            li_ul = li.append("ul").attr("class", "dropdown-menu");
+            v["apiName"].forEach(function (vv) {
+                li_ul.append("li").append("a")
+                    .attr("href", "/dllapi/{{tbName}}/{{flag}}/" + v["dllName"] + "/" + vv).text(vv);
+            })
+        });
+
+    });
+
+    d3.json("/dllapi/data/{{tbName}}/{{flag}}/{{dllName}}/{{apiName}}", function (error, graph) {
+        if (error) throw error;
+
+        var link = svg.append("g")
+            .attr("class", "links")
+            .selectAll("line")
+            .data(graph.links)
+            .enter().append("line")
+            .attr("stroke-width", 5)
+            .style("marker-end", "url(#suit)");
+
+        var node = svg.append("g")
+            .attr("class", "nodes")
+            .selectAll("circle")
+            .data(graph.nodes)
+            .enter().append("circle")
+            .attr("r", 18)
+            .style("fill", function (d) {
+                for (var i = 0; i < graph.links.length; i++) {
+                    if (graph.links[i].source == d.id) return "white";
+                }
+                return "black";
+            })
+            .style("stroke", "black")
+            .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended));
+
+        node.append("title")
+            .text(function (d) {
+                return d.id;
+            });
+
+        svg.append("defs").selectAll("marker")
+            .data(["suit", "licensing", "resolved"])
+            .enter().append("marker")
+            .attr("id", function (d) {
+                return d;
+            })
+            .attr("viewBox", "0 -5 10 10")
+            .attr("refX", 22)
+            .attr("refY", 0)
+            .attr("markerWidth", 3)
+            .attr("markerHeight", 3)
+            .attr("orient", "auto")
+            .append("path")
+            .attr("d", "M0,-5L10,0L0,5 L10,0 L0, -5")
+            .style("stroke", "black")
+            .style("opacity", "0.6");
+
+        var text = svg.selectAll("text")
+            .data(graph.nodes)
+            .enter()
+            .append("text")
+            .style("fill", "gray")
+            .attr("dx", 5)
+            .attr("dy", 30)
+            .attr("font-size", "12px")
+            .text(function (d) {
+                return d.id;
+            });
+
+        simulation
+            .nodes(graph.nodes)
+            .on("tick", ticked);
+
+        simulation.force("link")
+            .links(graph.links);
+
+        function ticked() {
+
+            node.each(function (d, i) {
+                d.x = width / 5 * i + 150;
+            });
+
+            node.each(function (d) {
+                d.y = height / 2;
+            });
+
+            link
+                .attr("x1", function (d) {
+                    return d.source.x;
+                })
+                .attr("y1", function (d) {
+                    return d.source.y;
+                })
+                .attr("x2", function (d) {
+                    return d.target.x;
+                })
+                .attr("y2", function (d) {
+                    return d.target.y;
+                });
+
+            node
+                .attr("cx", function (d) {
+                    return d.x;
+                })
+                .attr("cy", function (d) {
+                    return d.y;
+                });
+
+            text.attr("x", function (d) {
+                return d.x;
+            })
+                .attr("y", function (d) {
+                    return d.y;
+                });
+        }
+    });
+
+
+    function dragstarted(d) {
+        if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+        d.fx = d.x;
+        d.fy = d.y;
+    }
+
+    function dragged(d) {
+        d.fx = d3.event.x;
+        d.fy = d3.event.y;
+    }
+
+    function dragended(d) {
+        if (!d3.event.active) simulation.alphaTarget(0);
+        d.fx = null;
+        d.fy = null;
+    }
+
+</script>
