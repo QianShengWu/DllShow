@@ -20,4 +20,4 @@
 
 主页如下所示：
 
-![index](.\index.png)
+![image](https://github.com/QianShengWu/DllShow/master/index.png?raw=true)
