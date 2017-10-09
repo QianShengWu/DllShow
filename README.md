@@ -20,4 +20,4 @@
 
 主页如下所示：
 
-![image](https://github.com/QianShengWu/DllShow/master/index.png?raw=true)
+![image](https://github.com/QianShengWu/DllShow/raw/master/index.png
