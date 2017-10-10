@@ -16,7 +16,7 @@ def all(tbName):
 
 @dllgraph.route('/getAllData/<tbName>')
 def getAllData(tbName):
-    connection = pymysql.connect(host='192.168.161.124',
+    connection = pymysql.connect(host='192.168.161.234',
                                  user='dllapi',
                                  password='dllapi',
                                  db='dkc',
@@ -72,7 +72,7 @@ def index(tbName=None, name=None):
 def getData(tbName, name):
     nodes = dict()
     links = collections.defaultdict(list)
-    connection = pymysql.connect(host='192.168.161.124',
+    connection = pymysql.connect(host='192.168.161.234',
                                  user='dllapi',
                                  password='dllapi',
                                  db='dkc',
@@ -120,7 +120,7 @@ def getData(tbName, name):
 
 @dllgraph.route('/getNodes/<tbName>')
 def getNodes(tbName):
-    connection = pymysql.connect(host='192.168.161.124',
+    connection = pymysql.connect(host='192.168.161.234',
                                  user='dllapi',
                                  password='dllapi',
                                  db='dkc',

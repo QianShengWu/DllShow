@@ -17,7 +17,7 @@ def index(name):
 
 @dllforward.route('/data/<name>')
 def getData(name):
-    connection = pymysql.connect(host='192.168.161.124',
+    connection = pymysql.connect(host='192.168.161.234',
                                  user='dllapi',
                                  password='dllapi',
                                  db='dkc',

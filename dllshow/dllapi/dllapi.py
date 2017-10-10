@@ -47,7 +47,7 @@ def getNodes(tbName=None, flag=1):
 
 
 def getData(tbName, dllName, apiName, flag=1):
-    connection = pymysql.connect(host='192.168.161.124',
+    connection = pymysql.connect(host='192.168.161.234',
                                  user='dllapi',
                                  password='dllapi',
                                  db='dkc',
@@ -74,7 +74,7 @@ def getData(tbName, dllName, apiName, flag=1):
     return data
 
 def getNodesData(tbName, flag=1):
-    connection = pymysql.connect(host='192.168.161.124',
+    connection = pymysql.connect(host='192.168.161.234',
                                  user='dllapi',
                                  password='dllapi',
                                  db='dkc',

@@ -16,7 +16,7 @@ def index(tbName='wine202', name=None):
 
 @dllpoint.route('/data/<tbName>/<name>')
 def getData(tbName, name):
-    connection = pymysql.connect(host='192.168.161.124',
+    connection = pymysql.connect(host='192.168.161.234',
                                  user='dllapi',
                                  password='dllapi',
                                  db='dkc',
@@ -78,7 +78,7 @@ def getData(tbName, name):
 
 @dllpoint.route('/getNodes/<tbName>')
 def getNodes(tbName):
-    connection = pymysql.connect(host='192.168.161.124',
+    connection = pymysql.connect(host='192.168.161.234',
                                  user='dllapi',
                                  password='dllapi',
                                  db='dkc',
